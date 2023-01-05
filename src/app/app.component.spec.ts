@@ -1,4 +1,6 @@
-import { AppComponent } from "./app.component";describe('AppComponent', () => {
+import { AppComponent } from "./app.component";
+
+describe('AppComponent', () => {
   let fixture: AppComponent;
 
   beforeEach(() => {
