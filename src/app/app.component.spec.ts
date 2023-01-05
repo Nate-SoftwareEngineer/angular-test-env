@@ -5,7 +5,7 @@ import { AppComponent } from "./app.component";describe('AppComponent', () => {
     fixture = new AppComponent();
   })
 
-  it('should have a tigle my-test-env', () => {
+  it('should have a title my-test-env', () => {
     expect(fixture.title).toEqual('my-test-env')
   })
 })
